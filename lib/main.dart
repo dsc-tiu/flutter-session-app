@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         centerTitle: true,
-        title: Text("DSC Flutter"),
+        title: Text("DSC TIU Flutter"),
         backgroundColor: Colors.red,
       ),
       body: Container(
