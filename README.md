@@ -1,6 +1,6 @@
 # dsc_app
 
-A new Flutter project.
+Flutter project- Practice App
 
 ## Getting Started
 
